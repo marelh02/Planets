@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OAEA,cAAe,CACf,KAAK,CACL,MACA","file":"src.8741e17f.css","sourceRoot":"..\\src","sourcesContent":["canvas\n{\nposition: fixed;\ntop:0;\nleft: 0;\n}"]}
